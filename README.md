@@ -1,2 +1,2 @@
 # Guess_the_number
-This is a game that generates a number and you will need to guess it
+This is a game that generates a number which you will have to guess.
